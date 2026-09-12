@@ -1,0 +1,10 @@
+#IDE
+.vscode
+.git
+
+#Security
+.env
+test
+
+#Python
+__pycache__
